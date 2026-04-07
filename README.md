@@ -57,7 +57,7 @@ Full-stack app with responsive UI and smooth animations
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=shivanshpal31&show_icons=true&theme=tokyonight" /> -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshpal31&theme=tokyonight" />
-</p>
+</p> 
 
 ---
 
